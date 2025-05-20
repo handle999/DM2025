@@ -1,0 +1,8 @@
+plotly
+pyecharts
+matplotlib
+pandas
+seaborn
+tqdm
+numpy
+mlxtend
