@@ -12,3 +12,5 @@
 第二次作业已更新至[Peer 2](https://github.com/handle999/DM2025/tree/main/Peer2)
 
 包括环境需求、notebook代码（包含所有运行过程），以及报告
+
+第三次作业不涉及到代码，报告已更新
